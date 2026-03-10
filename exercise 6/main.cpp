@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <vector>
 
 int N = 100;
 
@@ -18,6 +17,6 @@ int main(){
         }
     }
 
-    std::cout << diff << std::endl;
+    std::cout << "The difference is " << diff << std::endl;
     return 0;
 }

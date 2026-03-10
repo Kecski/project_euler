@@ -26,6 +26,6 @@ int main(){
         }
     }
 
-    std::cout << max_prime << std::endl;
+    std::cout << "The largest prime factor is " << max_prime << std::endl;
     return 0;
 }

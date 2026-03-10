@@ -74,6 +74,6 @@ int main(){
         smallest_num *= n;
     }
     
-    std::cout << smallest_num << std::endl;
+    std::cout << "The smallest multiple is" << smallest_num << std::endl;
     return 0;
 }
