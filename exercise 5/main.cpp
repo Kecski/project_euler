@@ -28,6 +28,7 @@ std::vector<int> get_primes(int max){
 }
 
 // Function that gets the prime factors of an int x
+// Not used in the final implementation
 std::vector<int> get_prime_factors(int x, std::vector<int> primes){
     std::vector<int> prime_factors = {};
     
